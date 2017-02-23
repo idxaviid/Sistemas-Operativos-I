@@ -1,0 +1,9 @@
+- Bug 1:
+--------
+	En el segon if, en la condició, es a dir, hi ha que cambiar "global_base" per "block".
+	D'aquesta forma aconseguim executar la primera part del malloc.c
+
+- Bug 2:
+--------
+	Cada cop que es truca a request_space(), darrera ha d'anar un "global_base = block" per 
+	dir que global_base apunta a l'últim bloc.	

@@ -1,0 +1,1190 @@
+  5158  44993 250755 ./etext00/sign410.txt
+  1746  17124 103042 ./etext00/sffrg10.txt
+  33436  309832 1899162 ./etext00/dscmn10.txt
+ 16553 146193 891321 ./etext00/hphnc10.txt
+  18084  179992 1056963 ./etext00/eduha10.txt
+ 15824 169513 943755 ./etext00/2yb4m10.txt
+ 10003 103616 595670 ./etext00/poe3v11.txt
+  2528  24793 148791 ./etext00/mohwk10.txt
+ 10192 100377 578140 ./etext00/poe2v10.txt
+  4543  40534 231763 ./etext00/chldh10.txt
+  4903  51517 301735 ./etext00/andsj10.txt
+  6524  55782 298005 ./etext00/remus10.txt
+  30639  297989 1765018 ./etext00/2cahe10.txt
+  9562  94347 548249 ./etext00/poe1v10.txt
+  21692  199326 1116054 ./etext00/btowe10.txt
+ 16266 164185 906086 ./etext00/wflsh10.txt
+ 10315  87715 535027 ./etext00/hioaj10.txt
+ 135281  817811 4651867 ./etext00/00ws110.txt
+ 10203  77599 453574 ./etext00/poe5v10.txt
+  36790  281743 1702164 ./etext00/cbtls12.txt
+  9873  91152 528164 ./etext00/8year10.txt
+  2674  22947 137279 ./etext00/shkdd10.txt
+  30459  296382 1766773 ./etext00/1cahe10.txt
+  4138  45423 253884 ./etext00/utopi10.txt
+  8807  83320 483586 ./etext00/poe4v10.txt
+  6561  50519 291440 ./etext00/esymn10.txt
+ 20779 157737 938509 ./etext00/cstwy11.txt
+ 14705 117554 678382 ./etext00/mbova10.txt
+ 1253 11091 67595 ./etext00/oroos10.txt
+  2730  23440 128220 ./etext00/mpolo10.txt
+  3463  22045 134019 ./etext00/bgita10.txt
+  5703  51809 303752 ./etext00/rbddh10.txt
+  24738  199497 1137321 ./etext00/benhr10.txt
+ 11385 120600 660274 ./etext00/cyrus10.txt
+ 11757 114971 671233 ./etext00/utrkj10.txt
+ 1072  8038 46470 ./etext00/lstbw10.txt
+  6830  54559 313376 ./etext00/cptcr11a.txt
+  6673  57829 334650 ./etext00/icfsh10.txt
+ 1845 15463 92181 ./etext00/rlchn10.txt
+ 14253 142340 879618 ./etext00/hcath10.txt
+  35086  306296 1731944 ./etext00/1vkip11.txt
+  3197  27757 171958 ./etext00/8rbaa10.txt
+ 13636 101822 585849 ./etext00/truss10.txt
+ 10669  79043 454379 ./etext00/dmsnd11.txt
+  6920  66449 408468 ./etext00/beheb10.txt
+ 13968 148942 849134 ./etext01/2hofh10.txt
+  2677  24179 144243 ./etext01/8saht10.txt
+ 1070  8571 53482 ./etext01/thx1010.txt
+ 14895 163087 910524 ./etext01/1hofh10.txt
+ 14297 149236 837851 ./etext01/3lotj10.txt
+  8932  81614 476851 ./etext01/1linc11.txt
+ 2888 17220 99014 ./etext01/cloud10.txt
+ 1407 13563 80678 ./etext01/tctgr10.txt
+ 3026 10565 65379 ./etext01/1mlyd10.txt
+  4293  41499 236609 ./etext01/siddh10.txt
+ 16601 101391 618126 ./etext01/6linc11.txt
+  8617  69898 393768 ./etext01/dblnr11.txt
+  16465  164637 1021079 ./etext01/8swan11.txt
+ 15090 120650 710400 ./etext01/5linc11.txt
+  3961  34576 191568 ./etext01/mlcal10.txt
+ 12792  80688 495098 ./etext01/7linc11.txt
+ 10443  90592 523782 ./etext01/2linc11.txt
+ 12403 123374 704077 ./etext01/4lotj10.txt
+  22378  177720 1035435 ./etext01/ironm11.txt
+  29236  243992 1391054 ./etext01/idiot10.txt
+  22896  210938 1176628 ./etext01/8crmp10.txt
+ 1743  3990 73702 ./etext01/vazov10.txt
+  9179  68178 373556 ./etext01/rshft10.txt
+ 12719 137465 787427 ./etext01/zambs10.txt
+ 12008 105160 634660 ./etext01/1mrar10.txt
+  3777  40205 225995 ./etext01/4linc11.txt
+  6365  64503 370255 ./etext01/dscep10.txt
+  4967  47876 271801 ./etext01/3linc11.txt
+  23865  214422 1255801 ./etext01/moby11.txt
+ 15517 110784 647882 ./etext01/hoend10.txt
+ 4326 15010 92180 ./etext01/2mlyd10.txt
+  9624 103122 542318 ./etext01/grimm10.txt
+  67337  566237 3282452 ./etext01/wrnpc10.txt
+  22872  237289 1334523 ./etext01/warje10.txt
+  27393  208288 1155894 ./etext02/koran12a.txt
+ 15962 160266 888548 ./etext02/31001108.txt
+ 12340 121585 677563 ./etext02/b1001108.txt
+  35720  343486 1881333 ./etext02/lacob11.txt
+  7409  68076 420155 ./etext02/jandc10.txt
+ 18265 175597 993034 ./etext02/51001108.txt
+  48340  493592 2975094 ./etext02/nb17v11.txt
+ 15885 164886 911629 ./etext02/91001108.txt
+ 16295 156784 879638 ./etext02/81001108.txt
+  4292  27180 157812 ./etext02/hlnty10.txt
+ 1130  9629 55553 ./etext02/mthts11.txt
+  4117  23455 139477 ./etext02/birds10.txt
+  24053  218252 1216929 ./etext02/drthn11.txt
+ 16695 146597 824469 ./etext02/h8ahc10.txt
+  3494  29332 178588 ./etext02/hstwl10.txt
+  3798  26302 158338 ./etext02/lvbma11.txt
+  5488  54523 319905 ./etext02/baron10.txt
+ 13790 135489 755561 ./etext02/41001108.txt
+  753  6679 38264 ./etext02/mtdtl11.txt
+  21015  227485 1276868 ./etext02/d1001108.txt
+  4907  44416 273149 ./etext02/oldno10.txt
+ 10288 111363 617228 ./etext02/8tspv111.txt
+  9493  88775 533220 ./etext02/vorow10.txt
+  19499  177298 1072787 ./etext02/a1001108.txt
+ 11102 117785 654655 ./etext02/8tspv211.txt
+  5679  52739 310980 ./etext02/ltswd10.txt
+ 13224 138106 764234 ./etext02/61001108.txt
+ 17812 176882 982053 ./etext02/11001108.txt
+  8676  91693 525749 ./etext02/ithoa10.txt
+ 17592 171228 967355 ./etext02/f1001108.txt
+  36659  384166 2274821 ./etext02/wltnt10.txt
+  45042  453418 2633515 ./etext02/mn20v11.txt
+ 14567 142193 814821 ./etext02/fevch10.txt
+  950  6661 40067 ./etext02/bribe10.txt
+ 10116 114171 630323 ./etext02/tcosa10.txt
+  6699  62523 349616 ./etext02/ssklt10.txt
+  28701  301372 1767795 ./etext02/nc13v11.txt
+  3578  30610 179359 ./etext02/legva12.txt
+ 13869 140449 787800 ./etext02/e1001108.txt
+  27091  244615 1488417 ./etext02/irish10.txt
+  19685  191664 1118659 ./etext02/andvl11.txt
+ 11259 113537 628444 ./etext02/shrhe10.txt
+ 13340  80704 485079 ./etext02/llake10.txt
+ 16484 169275 977857 ./etext02/g1001108.txt
+  7643  61219 338787 ./etext02/bskrv11a.txt
+  60697  494837 2814559 ./etext02/gm00v11.txt
+ 16764 172836 958288 ./etext02/71001108.txt
+ 15396 149018 840247 ./etext02/c1001108.txt
+  3556  31560 182344 ./etext02/cnfcs10.txt
+ 15320 156866 873868 ./etext02/21001108.txt
+ 13939  94048 564074 ./etext02/5wiab10.txt
+  20804  219708 1287787 ./etext02/trabi10.txt
+ 11226  51489 316676 ./etext03/vlpnr10.txt
+  9487  99723 584387 ./etext03/thngl10.txt
+ 14957 144063 868147 ./etext03/8ataw11.txt
+  6853  63600 379381 ./etext03/chacr10.txt
+  9180  92015 507965 ./etext03/thjwl10.txt
+  18399  192758 1107874 ./etext03/8rran10.txt
+  32757  267232 1561648 ./etext03/ulyss12.txt
+ 14359 132845 806995 ./etext03/fkchp10.txt
+  9009  61599 366447 ./etext03/emohh10.txt
+  8489  79887 461190 ./etext03/dchla10.txt
+  5087  34994 202929 ./etext03/mjbrb10.txt
+  3912  33039 187505 ./etext03/crtcm10.txt
+ 12606 103644 587975 ./etext03/rplan10.txt
+  7450  75305 429936 ./etext03/twtp410.txt
+ 10508  97240 592948 ./etext03/mtlad10.txt
+  21645  210492 1300868 ./etext03/cprrn10.txt
+ 11520  51069 311351 ./etext03/lchms10.txt
+ 10294  87204 488597 ./etext03/prtrt10.txt
+  3947  35698 202857 ./etext03/dkang10.txt
+ 11597 141266 784464 ./etext03/thdcm10.txt
+  7076  65178 404471 ./etext03/bygdv10.txt
+  8877  68088 395122 ./etext03/rcddv10.txt
+ 10202  51864 315980 ./etext03/eotsw10.txt
+  88220  835447 4930901 ./etext03/cwgen11.txt
+  8195  73019 395201 ./etext03/jpnft10.txt
+  8049  80731 467880 ./etext03/twtp110.txt
+  24905  279294 1598341 ./etext03/jj13b10.txt
+  18240  171818 1034079 ./etext03/tfdbt10.txt
+  5772  50603 312934 ./etext03/nqpmr10.txt
+ 113299 1301379 6924973 ./etext03/sp85g10.txt
+  24098  182699 1062306 ./etext03/wmnlv10.txt
+  59588  371199 2375902 ./etext03/shlyc10.txt
+ 10071  95799 569143 ./etext03/twtp210.txt
+  5313  53383 321742 ./etext03/nplnb10.txt
+  21520  229007 1362260 ./etext03/trthn10.txt
+  5657  54773 325598 ./etext03/hgrkr10.txt
+  3747  27044 159430 ./etext03/nnchr10.txt
+  306713  2625667 15140710 ./etext03/gn06v10.txt
+  37825  412426 2326437 ./etext03/bough11.txt
+  7598  64287 384372 ./etext03/hhmms11.txt
+  8827  78985 441776 ./etext03/niebl10.txt
+  7925  68075 399453 ./etext03/8frml10.txt
+ 12362 108087 611670 ./etext03/rosry11.txt
+  4974  35935 208375 ./etext03/pygml10.txt
+  16990  189693 1043424 ./etext03/8clln10.txt
+  22433  206436 1193086 ./etext03/gbwlc10.txt
+  7703  60449 335709 ./etext03/vfear11a.txt
+ 10367  76630 444595 ./etext03/8jrny10.txt
+  5571  51960 318138 ./etext03/lfcpn10.txt
+  4928  34313 199175 ./etext03/nsnvl10.txt
+  5848  44965 257406 ./etext03/8fmtm10.txt
+  1860  17059 102918 ./etext03/pmbrb10.txt
+  3115  27702 168129 ./etext03/ponye10.txt
+  23232  216121 1273058 ./etext03/vbgle11a.txt
+  839  4812 28320 ./etext03/fgths10.txt
+ 12843 143222 853606 ./etext04/8ushx10.txt
+ 12609  82251 571718 ./etext04/rnpz810.txt
+ 12928 129944 790356 ./etext04/8wsh110.txt
+ 24811 140061 857425 ./etext04/kalec10.txt
+  6199  46469 275639 ./etext04/lgsp10.txt
+  7860  65215 368685 ./etext04/8knck10.txt
+  7834  65327 376149 ./etext04/8mala10.txt
+ 2304 17058 97767 ./etext04/smtlc10.txt
+  24594  181738 1165559 ./etext04/prblm10.txt
+ 15632 155752 886051 ./etext04/cs10w10.txt
+  35603  303058 1857877 ./etext04/phrlc10.txt
+  32118  251352 1427642 ./etext04/8ldvc10.txt
+ 11509  97950 574230 ./etext04/g138v10.txt
+ 13295 112699 695803 ./etext04/mrclt10.txt
+ 1401 13086 78573 ./etext04/arjpl10.txt
+ 20511 147165 861320 ./etext04/iliad10b.txt
+  2291  21251 123667 ./etext04/poeti10.txt
+  6537  57817 331447 ./etext04/gp37w10.txt
+ 10278 104684 598360 ./etext04/tgovt10.txt
+  4126  41573 247441 ./etext04/sphjd10.txt
+  37202  332106 1909403 ./etext04/bllfn10.txt
+  2931  19833 120175 ./etext04/swoop10.txt
+  3642  34005 202965 ./etext04/8cand10.txt
+  9579  69910 428211 ./etext04/8rome10.txt
+  4632  23888 141018 ./etext04/canpw10.txt
+  9405 100091 594010 ./etext04/8vnmm10.txt
+  870  6847 42538 ./etext04/conra10.txt
+ 17266 120421 773962 ./etext04/handi10.txt
+  3950  38840 226345 ./etext04/pscmg10.txt
+  7602  74827 395827 ./etext04/clckm10.txt
+  6806  60718 362204 ./etext04/8hmvg10.txt
+ 162309 1613414 9873495 ./etext04/suall10.txt
+  5524  49091 289994 ./etext04/mtrcs10.txt
+  35641  352957 2011425 ./etext04/8tomj10.txt
+  3467  21900 142668 ./etext04/8read10.txt
+ 10548  95184 565363 ./etext04/mdntp10.txt
+  5279  38829 212886 ./etext04/btsnl10.txt
+  9194  69757 406615 ./etext04/8idol10.txt
+ 13550 129971 776007 ./etext04/inagu10.txt
+  2240  19243 126621 ./etext04/8lndp10.txt
+ 126570  926517 5705028 ./etext04/fs40w10.txt
+ 158266 1613272 9840067 ./etext04/jm00v10.txt
+  4979  51996 295537 ./etext04/lsttn10.txt
+  19725  207606 1218527 ./etext04/plpwr10.txt
+  3948  33566 188866 ./etext04/svncl10.txt
+  4541  29771 182377 ./etext04/8va0910.txt
+  4682  46094 253562 ./etext04/holyw10.txt
+ 10652 100265 596807 ./etext04/hbtht10.txt
+ 10424  86786 525509 ./etext04/samur10.txt
+ 14550 137239 830519 ./etext04/cnstr10.txt
+  17033  197622 1117136 ./etext04/8swnn10.txt
+  23350  234927 1402745 ./etext04/st15w10.txt
+ 1398 12008 74589 ./etext04/pengl10.txt
+  22674  219850 1207245 ./etext04/tftaa10.txt
+ 23514  69974 612247 ./etext04/kalev10.txt
+  19947  194679 1150401 ./etext04/rob3w10.txt
+  18350  179876 1117872 ./etext04/8gtdr10.txt
+  4912  19662 127561 ./etext04/8gs3410.txt
+  853  7702 44943 ./etext04/btbst10.txt
+  9870  89188 524583 ./etext04/armyl10.txt
+ 11075 111153 655111 ./etext04/8sced10.txt
+  5436  30794 218210 ./etext04/clprm10u.txt
+  6632  67185 379028 ./etext04/bhawk10.txt
+  4689  44849 256287 ./etext04/mdvll10.txt
+ 27428 133669 752668 ./etext04/fb10w11.txt
+ 10717 100667 593918 ./etext04/pas8w10.txt
+  20666  204835 1168651 ./etext04/strtt10.txt
+  899  6721 45930 ./etext04/8rdsl10.txt
+  22008  208781 1180740 ./etext04/mlfls10.txt
+ 2470 13251 79293 ./etext04/7mynr10.txt
+  9418  89049 521598 ./etext04/lflcn10.txt
+ 15047 150449 902466 ./etext04/8tjna10.txt
+  9502  49161 306579 ./etext04/emihh10a.txt
+  9116  45799 267103 ./etext04/8grtr10.txt
+ 1664 14440 88882 ./etext04/8phil10.txt
+  17694  161059 1013488 ./etext04/8lssm10u.txt
+  2448  24399 146247 ./etext04/judsm10.txt
+  5927  61940 345308 ./etext04/tmrcr10.txt
+  26113  191605 1146926 ./etext04/iliad10a.txt
+ 15232 140052 792778 ./etext04/8jrc710.txt
+ 1926 15558 93703 ./etext04/whwar10.txt
+  9079  96455 561146 ./etext04/8wwrt10.txt
+ 10352  76630 497313 ./etext04/8clel10.txt
+  4565  25348 165100 ./etext04/spatr10.txt
+ 1573 15002 89862 ./etext04/vampy10.txt
+  20838  223611 1188605 ./etext04/pam1w10.txt
+  31747  288746 1842626 ./etext04/hmjnc11.txt
+  423  2411 16875 ./etext04/kknta10.txt
+  31629  293939 1848837 ./etext04/hmjnc10.txt
+  7913  67919 404663 ./etext04/chshr10.txt
+ 13796  93765 594050 ./etext04/marmn10a.txt
+  6633  60866 373749 ./etext05/8rheb10.txt
+  384  2384 15355 ./etext05/bib0010h/Readme.txt
+ 13496 141989 883785 ./etext05/8hist10.txt
+  8894  87479 525397 ./etext05/8hfld10.txt
+  21837  236760 1320917 ./etext05/cfvrw10.txt
+  5563  51829 306690 ./etext05/8recn10.txt
+  58085  672649 3623007 ./etext05/lcjnl10.txt
+ 3098 16634 99122 ./etext05/8frog10.txt
+  8677  63959 374343 ./etext05/8moor10.txt
+  7943  78191 458587 ./etext05/lgtrd10.txt
+  4233  31598 200226 ./etext05/aaard10.txt
+  5260  51183 309069 ./etext05/8aggr10.txt
+  9359  65227 396097 ./etext05/8josh10.txt
+  6174  52181 292301 ./etext05/8dubc10.txt
+  4694  43166 234797 ./etext05/tagod10.txt
+  4892  39002 234875 ./etext05/8igjp10.txt
+  21122  197809 1146859 ./etext05/b033w10.txt
+  18295  182287 1082130 ./etext05/8luth10.txt
+  8146  79821 471719 ./etext05/8augr10.txt
+ 1256  9138 56136 ./etext05/8ldvn10.txt
+  9647 107281 641591 ./etext05/8rtib10.txt
+  5050  43038 282484 ./etext05/skawe10.txt
+  2301  22666 135973 ./etext05/8rinc10.txt
+ 16872 150656 876179 ./etext05/8purg10.txt
+  7172  49149 270113 ./etext05/8cury10.txt
+  7266  53184 295841 ./etext05/8jeev10.txt
+  8136  73208 425524 ./etext05/8hcal10.txt
+ 16108 133828 797110 ./etext05/8ntle10.txt
+  4303  38863 247624 ./etext05/panic10.txt
+  6759  51927 292995 ./etext05/8moon10.txt
+  24154  226251 1377479 ./etext05/8romn10.txt
+ 14966  93952 612881 ./etext05/esper10.txt
+  6759  56085 342477 ./etext05/8shkm10.txt
+ 15223 134353 804010 ./etext05/8csus10.txt
+ 10420  97541 578627 ./etext05/8homr10.txt
+ 2484 16586 93887 ./etext05/7king10.txt
+  4134  26625 155275 ./etext05/8ghst10.txt
+  23938  242612 1512859 ./etext05/8unlt10.txt
+  7328  63330 345956 ./etext05/8eftl10.txt
+  20362  182699 1128932 ./etext05/8elit10.txt
+  8247  68703 387413 ./etext05/ovtop10.txt
+  4186  22085 126692 ./etext05/tfgtv10.txt
+  29428  229909 1426440 ./etext05/8euhs10.txt
+  5922  52984 284611 ./etext05/tbyty10.txt
+  8835  77106 417796 ./etext05/8celt10.txt
+  21314  205635 1110128 ./etext05/8trsa10.txt
+  5293  44720 271086 ./etext05/8hsrs10.txt
+ 1626 11466 71355 ./etext05/esycr10.txt
+ 17647 178494 988447 ./etext05/wlwrk10.txt
+  558  3890 24682 ./etext90/when12.txt
+ 100117  823156 4445260 ./etext90/kjv10.txt
+  267  1790 11240 ./etext90/bill11.txt
+  803  5979 36641 ./etext90/const11.txt
+  285  2550 15273 ./etext90/liber11.txt
+  4431  31039 183628 ./etext91/lglass18.txt
+  28488  203373 1551040 ./etext91/roget15a.txt
+  3853  28194 163184 ./etext91/alice30.txt
+  5221  42672 241064 ./etext91/aesop11.txt
+  19482  196853 1205848 ./etext91/feder16.txt
+  40115  293159 1588927 ./etext91/mormon13.txt
+  6842  62469 365093 ./etext92/warw12.txt
+ 10955  81965 493523 ./etext92/plrabn12.txt
+ 12112 104099 586969 ./etext92/anne11.txt
+ 10149  91313 512529 ./etext92/avon10.txt
+  9246  85421 507493 ./etext92/scrlt12.txt
+  4200  30825 176874 ./etext92/carol13.txt
+ 1552 14145 84155 ./etext92/sleep11.txt
+  5146  43150 245233 ./etext92/duglas11.txt
+  3670  34277 197557 ./etext92/timem11.txt
+  8807  72454 411472 ./etext93/sawyr11.txt
+ 10661  86332 507081 ./etext93/scarp10.txt
+  2321  17356 103324 ./etext93/rgain10.txt
+ 11676 112757 592833 ./etext93/hfinn12.txt
+ 12638  93110 570546 ./etext93/moon10.txt
+ 1866 13808 89589 ./etext93/manif12.txt
+  7154  59432 333977 ./etext93/wmars13.txt
+  29130  127240 1424515 ./etext93/pimil10.txt
+  5105  41188 229443 ./etext93/wizoz10.txt
+  2149  24683 141533 ./etext93/dcart10.txt
+ 1333 11650 67208 ./etext93/civil11.txt
+  7647  77118 443400 ./etext93/frank14.txt
+  7328  55522 308591 ./etext93/zenda10.txt
+  6876  44263 260296 ./etext93/ozland10.txt
+  7744  69556 393542 ./etext93/pmars13.txt
+ 10137  85061 477285 ./etext93/gmars12.txt
+ 12288  87925 508026 ./etext93/tarzn10.txt
+ 11167  90766 517271 ./etext93/tarz210.txt
+  9114  70381 388518 ./etext94/treas11.txt
+ 16364 137667 787603 ./etext94/2city12.txt
+  6709  68048 395591 ./etext94/bfaut10.txt
+ 10984  86552 498596 ./etext94/phant12.txt
+ 13716 113763 638398 ./etext94/rholm10.txt
+ 15055 120355 698606 ./etext94/sense11.txt
+  12789   14405 1037461 ./etext94/ee710.txt
+ 1079  5574 32174 ./etext94/rime10.txt
+  2393  23400 137327 ./etext94/comsn10.txt
+ 17097 126197 707291 ./etext94/repub13.txt
+  5200  45353 259214 ./etext94/dmoro11.txt
+  22010  226088 1186538 ./etext94/wwend10.txt
+  8182  64506 385830 ./etext94/80day11.txt
+ 17960 146025 830791 ./etext94/jude11.txt
+ 15204 117060 682068 ./etext94/mayrc10.txt
+ 10901  82429 452868 ./etext94/gardn11.txt
+  6651  60486 327835 ./etext94/plgrm11.txt
+  70761  567643 3334517 ./etext94/lesms10.txt
+ 20917 150283 868039 ./etext94/tess10.txt
+ 12397 101840 593683 ./etext94/2000010.txt
+ 10026  74893 436964 ./etext94/fuman12.txt
+ 19173 143477 817688 ./etext94/nativ10.txt
+ 14692 150946 839350 ./etext94/jungl10.txt
+  6805  55729 337352 ./etext94/sunzu10.txt
+  34324  318631 1843562 ./etext94/mdmar10.txt
+  5182  46409 252499 ./etext95/sioux10.txt
+  8269  83714 466911 ./etext95/myant11.txt
+  6414  61801 322124 ./etext95/bbeau10.txt
+ 146801 1347452 8441343 ./etext95/pge0112.txt
+  9740  69108 369189 ./etext95/troic10.txt
+  6889  60212 344583 ./etext95/wwill10.txt
+  689  5531 32830 ./etext95/owlcr10.txt
+  6080  52526 292059 ./etext95/jnglb10.txt
+  3652  24514 143783 ./etext95/sstcq10.txt
+ 14503 108112 631552 ./etext95/anide10.txt
+  5548  45704 264561 ./etext95/study10.txt
+  5087  44098 246078 ./etext95/tturn10.txt
+ 18107 155317 947109 ./etext95/pprty10.txt
+ 11158  92857 536935 ./etext95/homer10.txt
+ 13529 139951 730866 ./etext95/mollf10.txt
+ 1632  8684 53947 ./etext95/kswom10.txt
+  22572  182978 1051635 ./etext95/utomc11.txt
+  28958  261132 1450272 ./etext95/humbn10.txt
+ 21457 157767 915369 ./etext95/scarr10.txt
+ 10570  65427 469632 ./etext95/anidl10.txt
+  6953  40888 251393 ./etext95/litbl10.txt
+ 16667 162362 865179 ./etext95/dracu12.txt
+  2807  22226 161875 ./etext95/galli10.txt
+  3536  33535 193520 ./etext95/callw10.txt
+  7457  48620 280786 ./etext96/badge10a.txt
+  6450  53231 292535 ./etext96/prgob10.txt
+  21984  188485 1045926 ./etext96/lwmen12.txt
+ 16573 144029 885471 ./etext96/pmisr10.txt
+  27158  253479 1570266 ./etext96/3dfre10.txt
+  69842  742247 4315118 ./etext96/plivs10.txt
+  5115  41070 229496 ./etext96/magoz10.txt
+  1997  19751 115005 ./etext96/areop10.txt
+ 12715  91820 555252 ./etext96/sjv0410.txt
+ 11291  69806 393220 ./etext96/oleng10.txt
+  22649  223266 1279348 ./etext96/tbisp10.txt
+  24996  217905 1250786 ./etext96/curio10.txt
+ 11266  85051 497678 ./etext96/pcwar10.txt
+  24910  240061 1446624 ./etext96/6dfre10.txt
+  4436  45887 256825 ./etext96/notun11.txt
+ 13569 141089 864515 ./etext96/1jcfs10.txt
+  31554  304971 1762522 ./etext96/vfair12.txt
+ 11486  85877 478620 ./etext96/idyll10a.txt
+  7901  71023 421942 ./etext96/soulb10.txt
+  31831  296008 1833945 ./etext96/2dfre11.txt
+ 16793 130730 706636 ./etext96/njals10.txt
+  3889  39955 226482 ./etext96/hdark12a.txt
+  9868 103588 582036 ./etext96/tshak10.txt
+  7266  55639 319680 ./etext96/ebacn10.txt
+  28028  264295 1596291 ./etext96/5dfre11.txt
+  29377  268791 1656383 ./etext96/1dfre10.txt
+  10266   11737 1031081 ./etext96/onepi10.txt
+  5330  34148 199649 ./etext96/sorol10.txt
+ 1719 12586 82072 ./etext96/prjtr10.txt
+  40831  361106 1998495 ./etext96/cprfd10.txt
+  49185  307268 1764308 ./etext96/orfur10.txt
+  5519  43727 246520 ./etext96/doroz10.txt
+  8354  73588 417529 ./etext96/twrdn10.txt
+ 14276 103520 606491 ./etext96/agino10.txt
+  9330  76657 420352 ./etext96/wnbrg11.txt
+ 10987  80769 473752 ./etext96/ftroy10.txt
+  5405  41047 235316 ./etext96/rd2oz10.txt
+ 13180 119022 675254 ./etext96/wuthr10.txt
+  7629  70095 397928 ./etext96/agnsg10.txt
+  28829  277920 1687011 ./etext96/4dfre10.txt
+ 20255 158823 923333 ./etext96/olivr10.txt
+  2802  24307 143707 ./etext97/3spne10.txt
+ 10438 106638 604629 ./etext97/gltrv10.txt
+  40917  355276 2028716 ./etext97/blkhs10.txt
+ 21180 153595 893547 ./etext97/0ddcc10.txt
+ 1607 16147 93962 ./etext97/slman10.txt
+  2202  19785 115539 ./etext97/2spne10.txt
+  624  5168 30969 ./etext97/mdprp10.txt
+ 19936  99085 565977 ./etext97/0ddc809a.txt
+  3337  21355 128988 ./etext97/drfst10.txt
+  41158  425466 2325117 ./etext97/1donq10.txt
+  4230  28437 166117 ./etext97/bwulf11.txt
+  3486  23417 147112 ./etext97/wwasw10.txt
+  39099  324316 1902955 ./etext97/ncklb10.txt
+ 11248 107819 665494 ./etext97/totlc10.txt
+ 1352 12159 72208 ./etext97/5spne10.txt
+ 16472 165034 937122 ./etext97/dnhst10.txt
+  8091  74105 419282 ./etext97/wtfng10.txt
+ 12513 105939 599574 ./etext97/hardt10.txt
+  19264  181446 1061420 ./etext97/shndy10.txt
+  6668  57821 332693 ./etext97/bnrwy10.txt
+  3502  22498 133685 ./etext97/tiobe10.txt
+ 1700 11908 71457 ./etext97/wsvns10.txt
+  3764  37046 208489 ./etext97/lndle10.txt
+ 11469 104793 592697 ./etext97/nblng10.txt
+  2921  19586 110620 ./etext97/wssnt10.txt
+  16778  192730 1042852 ./etext97/dtroy10.txt
+  4465  26018 160402 ./etext97/tmbn110.txt
+ 10964  73621 433882 ./etext97/ttnic10.txt
+  8209  63900 358706 ./etext97/1rbnh10.txt
+  4923  27243 164423 ./etext97/jmlta10.txt
+  6336  63936 358812 ./etext97/1argn10.txt
+ 20370 116778 684987 ./etext97/0ddcl10.txt
+ 12443  89343 499608 ./etext97/memho11.txt
+  2668  23836 140848 ./etext97/4spne10.txt
+ 1408  5317 31186 ./etext97/nnsns10.txt
+ 18191 150870 881479 ./etext97/mohic10.txt
+ 1821 15592 94384 ./etext97/1spne10.txt
+ 11916 112898 613158 ./etext97/2rbnh10.txt
+ 2193 17951 99204 ./etext97/hpaot10.txt
+  9005  59267 342432 ./etext97/vlsng10.txt
+  31931  163511 1241627 ./etext97/cpogs10.txt
+  22965  195799 1150283 ./etext98/milnd11.txt
+  4407  23430 137046 ./etext98/2ws0910.txt
+ 16608 157832 963354 ./etext98/otoos11.txt
+  6601  29496 175105 ./etext98/2ws2910.txt
+  2792  22992 127122 ./etext98/potww10.txt
+  22043  191357 1070886 ./etext98/janey11.txt
+ 1829 17648 97226 ./etext98/ppikg10.txt
+  4821  24786 142179 ./etext98/2ws2510.txt
+  5129  24123 140629 ./etext98/2ws1010.txt
+  5080  51385 296940 ./etext98/tprnc10.txt
+  683  4524 27267 ./etext98/2ws4410.txt
+ 11897  77103 452141 ./etext98/secad10.txt
+  5351  24608 146200 ./etext98/2ws1210.txt
+  4937  22756 133324 ./etext98/2ws2410.txt
+  5349  26289 151251 ./etext98/2ws3010.txt
+  7920  79165 423842 ./etext98/mhyde10.txt
+  4541  20282 117757 ./etext98/2ws1110.txt
+  4757  21611 128038 ./etext98/2ws3710.txt
+  33249  231576 1349189 ./etext98/1musk12.txt
+  5536  28580 166035 ./etext98/2ws0210.txt
+  8009  56019 318423 ./etext98/vccty10.txt
+  5342  27642 161434 ./etext98/2ws4010.txt
+  43490  351603 2031585 ./etext98/nkrnn11.txt
+  38658  200103 1171119 ./etext98/pgbev10.txt
+  6734  30885 183878 ./etext98/2ws3610.txt
+  38892  245207 1416651 ./etext98/3musk11.txt
+  5205  24718 143496 ./etext98/2ws3110.txt
+  5568  27463 159505 ./etext98/2ws1610.txt
+  7067  33590 193045 ./etext98/2ws2610.txt
+  6392  29151 170485 ./etext98/2ws3310.txt
+  4826  24475 139394 ./etext98/2ws2210.txt
+  62037  466288 2689714 ./etext98/crsto12.txt
+  4439  21545 125423 ./etext98/2ws3810.txt
+ 14572 123827 716223 ./etext98/pandp12.txt
+  5406  25373 145680 ./etext98/2ws2010.txt
+ 10066  36896 241475 ./etext98/cdbfr10.txt
+  30910  321519 1875745 ./etext98/ggpnt10.txt
+  6938  28213 170608 ./etext98/2ws3510.txt
+  21216  186461 1032291 ./etext98/grexp10a.txt
+  40740  269258 1566903 ./etext98/2musk10.txt
+  3760  19105 111410 ./etext98/2ws1710.txt
+  5145  27276 155753 ./etext98/2ws1910.txt
+  31440  222423 1234872 ./etext98/3drvb10.txt
+  2822  23383 128010 ./etext98/anthm10z.txt
+  4619  25344 147112 ./etext98/2ws1510.txt
+  4883  23111 131950 ./etext98/2ws2810.txt
+  6464  27481 160938 ./etext98/2ws4310.txt
+  4105  19532 114562 ./etext98/2ws3910.txt
+  4384  23685 137626 ./etext98/2ws1410.txt
+  4188  19333 114797 ./etext98/2ws4110.txt
+  4558  30323 173466 ./etext98/wwrld10.txt
+  5345  32898 184837 ./etext98/sprvr11.txt
+  2494  16987 100862 ./etext98/2ws0810.txt
+  4939  24698 146946 ./etext98/2ws0110.txt
+ 12523 102928 616991 ./etext98/comet10.txt
+  6754  32974 194524 ./etext98/2ws0410.txt
+  4452  20055 120027 ./etext98/2ws3410.txt
+ 17284 173238 924210 ./etext98/1mart10.txt
+  3494  18041 103902 ./etext98/2ws0610.txt
+  393  2326 14713 ./etext98/2ws2710.txt
+  4525  24171 137184 ./etext98/2ws1810.txt
+  22062  197375 1051151 ./etext98/2mart10.txt
+  5363  29320 170309 ./etext98/2ws2310.txt
+  5504  43596 258604 ./etext98/19rus10.txt
+  4619  23320 134591 ./etext98/1ws4710.txt
+ 12541 113086 636111 ./etext98/2lotj10.txt
+  554  3529 21267 ./etext98/2ws4510.txt
+  5446  27754 162342 ./etext98/2ws0310.txt
+ 2488 13140 77670 ./etext98/msprs10.txt
+ 13088 129247 722428 ./etext98/1lotj10.txt
+  5566  29555 170900 ./etext98/2ws2110.txt
+  5400  27769 161053 ./etext98/2ws4210.txt
+  9822  37709 237089 ./etext98/cdben10.txt
+  6606  29520 173217 ./etext98/2ws3210.txt
+ 3269 17217 97907 ./etext99/1ws4910.txt
+ 13015 106840 590093 ./etext99/advsh12.txt
+ 2484 13061 81561 ./etext99/fldct10.txt
+  8116  71939 415213 ./etext99/prppr11.txt
+  3106  20829 116206 ./etext99/cndrl10.txt
+  5259  25217 145386 ./etext99/1ws5110.txt
+ 13505 109372 643229 ./etext99/1onwr10.txt
+  6851  61709 348407 ./etext99/mwktm10a.txt
+  7141  63748 359139 ./etext99/mcrst11.txt
+  4513  26779 165106 ./etext99/tmbn210.txt
+ 1756 15112 90966 ./etext99/brtns10.txt
+  2639  18403 104130 ./etext99/vanya10.txt
+ 13182 131754 706419 ./etext99/dyssy10.txt
+  4581  44685 250285 ./etext99/phado10.txt
+ 15328 112946 668624 ./etext99/spzar10.txt
+  2565  24532 141528 ./etext99/adrwn10.txt
+  964  8470 48370 ./etext99/crito10.txt
+  57149  418232 2309992 ./etext99/2drvb10.txt
+ 1648 18004 99817 ./etext99/pplgy10.txt
+  9604  88708 521104 ./etext99/vstil10.txt
+  37145  383184 2143292 ./etext99/2donq10.txt
+ 1759  7477 43703 ./etext99/sinex10.txt
+  21267  174955 1004770 ./etext99/resur10.txt
+ 1203  7983 44639 ./etext99/ylwlp10.txt
+  59173  437227 2401914 ./etext99/1drvb10.txt
+ 15038 133230 801986 ./etext99/uspis10.txt
+44993 ./etext00/sign410.txt
+17124 ./etext00/sffrg10.txt
+309832 ./etext00/dscmn10.txt
+146193 ./etext00/hphnc10.txt
+179992 ./etext00/eduha10.txt
+169513 ./etext00/2yb4m10.txt
+103616 ./etext00/poe3v11.txt
+24793 ./etext00/mohwk10.txt
+100377 ./etext00/poe2v10.txt
+40534 ./etext00/chldh10.txt
+51517 ./etext00/andsj10.txt
+55782 ./etext00/remus10.txt
+297989 ./etext00/2cahe10.txt
+94347 ./etext00/poe1v10.txt
+199326 ./etext00/btowe10.txt
+164185 ./etext00/wflsh10.txt
+87715 ./etext00/hioaj10.txt
+817811 ./etext00/00ws110.txt
+77599 ./etext00/poe5v10.txt
+281743 ./etext00/cbtls12.txt
+91152 ./etext00/8year10.txt
+22947 ./etext00/shkdd10.txt
+296382 ./etext00/1cahe10.txt
+45423 ./etext00/utopi10.txt
+83320 ./etext00/poe4v10.txt
+50519 ./etext00/esymn10.txt
+157737 ./etext00/cstwy11.txt
+117554 ./etext00/mbova10.txt
+11091 ./etext00/oroos10.txt
+23440 ./etext00/mpolo10.txt
+22045 ./etext00/bgita10.txt
+51809 ./etext00/rbddh10.txt
+199497 ./etext00/benhr10.txt
+120600 ./etext00/cyrus10.txt
+114971 ./etext00/utrkj10.txt
+8038 ./etext00/lstbw10.txt
+54559 ./etext00/cptcr11a.txt
+57829 ./etext00/icfsh10.txt
+15463 ./etext00/rlchn10.txt
+142340 ./etext00/hcath10.txt
+306296 ./etext00/1vkip11.txt
+27757 ./etext00/8rbaa10.txt
+101822 ./etext00/truss10.txt
+79043 ./etext00/dmsnd11.txt
+66449 ./etext00/beheb10.txt
+148942 ./etext01/2hofh10.txt
+24179 ./etext01/8saht10.txt
+8571 ./etext01/thx1010.txt
+163087 ./etext01/1hofh10.txt
+149236 ./etext01/3lotj10.txt
+81614 ./etext01/1linc11.txt
+17220 ./etext01/cloud10.txt
+13563 ./etext01/tctgr10.txt
+10565 ./etext01/1mlyd10.txt
+41499 ./etext01/siddh10.txt
+101391 ./etext01/6linc11.txt
+69898 ./etext01/dblnr11.txt
+164637 ./etext01/8swan11.txt
+120650 ./etext01/5linc11.txt
+34576 ./etext01/mlcal10.txt
+80688 ./etext01/7linc11.txt
+90592 ./etext01/2linc11.txt
+123374 ./etext01/4lotj10.txt
+177720 ./etext01/ironm11.txt
+243992 ./etext01/idiot10.txt
+210938 ./etext01/8crmp10.txt
+3990 ./etext01/vazov10.txt
+68178 ./etext01/rshft10.txt
+137465 ./etext01/zambs10.txt
+105160 ./etext01/1mrar10.txt
+40205 ./etext01/4linc11.txt
+64503 ./etext01/dscep10.txt
+47876 ./etext01/3linc11.txt
+214422 ./etext01/moby11.txt
+110784 ./etext01/hoend10.txt
+15010 ./etext01/2mlyd10.txt
+103122 ./etext01/grimm10.txt
+566237 ./etext01/wrnpc10.txt
+237289 ./etext01/warje10.txt
+208288 ./etext02/koran12a.txt
+160266 ./etext02/31001108.txt
+121585 ./etext02/b1001108.txt
+343486 ./etext02/lacob11.txt
+68076 ./etext02/jandc10.txt
+175597 ./etext02/51001108.txt
+493592 ./etext02/nb17v11.txt
+164886 ./etext02/91001108.txt
+156784 ./etext02/81001108.txt
+27180 ./etext02/hlnty10.txt
+9629 ./etext02/mthts11.txt
+23455 ./etext02/birds10.txt
+218252 ./etext02/drthn11.txt
+146597 ./etext02/h8ahc10.txt
+29332 ./etext02/hstwl10.txt
+26302 ./etext02/lvbma11.txt
+54523 ./etext02/baron10.txt
+135489 ./etext02/41001108.txt
+6679 ./etext02/mtdtl11.txt
+227485 ./etext02/d1001108.txt
+44416 ./etext02/oldno10.txt
+111363 ./etext02/8tspv111.txt
+88775 ./etext02/vorow10.txt
+177298 ./etext02/a1001108.txt
+117785 ./etext02/8tspv211.txt
+52739 ./etext02/ltswd10.txt
+138106 ./etext02/61001108.txt
+176882 ./etext02/11001108.txt
+91693 ./etext02/ithoa10.txt
+171228 ./etext02/f1001108.txt
+384166 ./etext02/wltnt10.txt
+453418 ./etext02/mn20v11.txt
+142193 ./etext02/fevch10.txt
+6661 ./etext02/bribe10.txt
+114171 ./etext02/tcosa10.txt
+62523 ./etext02/ssklt10.txt
+301372 ./etext02/nc13v11.txt
+30610 ./etext02/legva12.txt
+140449 ./etext02/e1001108.txt
+244615 ./etext02/irish10.txt
+191664 ./etext02/andvl11.txt
+113537 ./etext02/shrhe10.txt
+80704 ./etext02/llake10.txt
+169275 ./etext02/g1001108.txt
+61219 ./etext02/bskrv11a.txt
+494837 ./etext02/gm00v11.txt
+172836 ./etext02/71001108.txt
+149018 ./etext02/c1001108.txt
+31560 ./etext02/cnfcs10.txt
+156866 ./etext02/21001108.txt
+94048 ./etext02/5wiab10.txt
+219708 ./etext02/trabi10.txt
+51489 ./etext03/vlpnr10.txt
+99723 ./etext03/thngl10.txt
+144063 ./etext03/8ataw11.txt
+63600 ./etext03/chacr10.txt
+92015 ./etext03/thjwl10.txt
+192758 ./etext03/8rran10.txt
+267232 ./etext03/ulyss12.txt
+132845 ./etext03/fkchp10.txt
+61599 ./etext03/emohh10.txt
+79887 ./etext03/dchla10.txt
+34994 ./etext03/mjbrb10.txt
+33039 ./etext03/crtcm10.txt
+103644 ./etext03/rplan10.txt
+75305 ./etext03/twtp410.txt
+97240 ./etext03/mtlad10.txt
+210492 ./etext03/cprrn10.txt
+51069 ./etext03/lchms10.txt
+87204 ./etext03/prtrt10.txt
+35698 ./etext03/dkang10.txt
+141266 ./etext03/thdcm10.txt
+65178 ./etext03/bygdv10.txt
+68088 ./etext03/rcddv10.txt
+51864 ./etext03/eotsw10.txt
+835447 ./etext03/cwgen11.txt
+73019 ./etext03/jpnft10.txt
+80731 ./etext03/twtp110.txt
+279294 ./etext03/jj13b10.txt
+171818 ./etext03/tfdbt10.txt
+50603 ./etext03/nqpmr10.txt
+1301379 ./etext03/sp85g10.txt
+182699 ./etext03/wmnlv10.txt
+371199 ./etext03/shlyc10.txt
+95799 ./etext03/twtp210.txt
+53383 ./etext03/nplnb10.txt
+229007 ./etext03/trthn10.txt
+54773 ./etext03/hgrkr10.txt
+27044 ./etext03/nnchr10.txt
+2625667 ./etext03/gn06v10.txt
+412426 ./etext03/bough11.txt
+64287 ./etext03/hhmms11.txt
+78985 ./etext03/niebl10.txt
+68075 ./etext03/8frml10.txt
+108087 ./etext03/rosry11.txt
+35935 ./etext03/pygml10.txt
+189693 ./etext03/8clln10.txt
+206436 ./etext03/gbwlc10.txt
+60449 ./etext03/vfear11a.txt
+76630 ./etext03/8jrny10.txt
+51960 ./etext03/lfcpn10.txt
+34313 ./etext03/nsnvl10.txt
+44965 ./etext03/8fmtm10.txt
+17059 ./etext03/pmbrb10.txt
+27702 ./etext03/ponye10.txt
+216121 ./etext03/vbgle11a.txt
+4812 ./etext03/fgths10.txt
+143222 ./etext04/8ushx10.txt
+82251 ./etext04/rnpz810.txt
+129944 ./etext04/8wsh110.txt
+140061 ./etext04/kalec10.txt
+46469 ./etext04/lgsp10.txt
+65215 ./etext04/8knck10.txt
+65327 ./etext04/8mala10.txt
+17058 ./etext04/smtlc10.txt
+181738 ./etext04/prblm10.txt
+155752 ./etext04/cs10w10.txt
+303058 ./etext04/phrlc10.txt
+251352 ./etext04/8ldvc10.txt
+97950 ./etext04/g138v10.txt
+112699 ./etext04/mrclt10.txt
+13086 ./etext04/arjpl10.txt
+147165 ./etext04/iliad10b.txt
+21251 ./etext04/poeti10.txt
+57817 ./etext04/gp37w10.txt
+104684 ./etext04/tgovt10.txt
+41573 ./etext04/sphjd10.txt
+332106 ./etext04/bllfn10.txt
+19833 ./etext04/swoop10.txt
+34005 ./etext04/8cand10.txt
+69910 ./etext04/8rome10.txt
+23888 ./etext04/canpw10.txt
+100091 ./etext04/8vnmm10.txt
+6847 ./etext04/conra10.txt
+120421 ./etext04/handi10.txt
+38840 ./etext04/pscmg10.txt
+74827 ./etext04/clckm10.txt
+60718 ./etext04/8hmvg10.txt
+1613414 ./etext04/suall10.txt
+49091 ./etext04/mtrcs10.txt
+352957 ./etext04/8tomj10.txt
+21900 ./etext04/8read10.txt
+95184 ./etext04/mdntp10.txt
+38829 ./etext04/btsnl10.txt
+69757 ./etext04/8idol10.txt
+129971 ./etext04/inagu10.txt
+19243 ./etext04/8lndp10.txt
+926517 ./etext04/fs40w10.txt
+1613272 ./etext04/jm00v10.txt
+51996 ./etext04/lsttn10.txt
+207606 ./etext04/plpwr10.txt
+33566 ./etext04/svncl10.txt
+29771 ./etext04/8va0910.txt
+46094 ./etext04/holyw10.txt
+100265 ./etext04/hbtht10.txt
+86786 ./etext04/samur10.txt
+137239 ./etext04/cnstr10.txt
+197622 ./etext04/8swnn10.txt
+234927 ./etext04/st15w10.txt
+12008 ./etext04/pengl10.txt
+219850 ./etext04/tftaa10.txt
+69974 ./etext04/kalev10.txt
+194679 ./etext04/rob3w10.txt
+179876 ./etext04/8gtdr10.txt
+19662 ./etext04/8gs3410.txt
+7702 ./etext04/btbst10.txt
+89188 ./etext04/armyl10.txt
+111153 ./etext04/8sced10.txt
+30794 ./etext04/clprm10u.txt
+67185 ./etext04/bhawk10.txt
+44849 ./etext04/mdvll10.txt
+133669 ./etext04/fb10w11.txt
+100667 ./etext04/pas8w10.txt
+204835 ./etext04/strtt10.txt
+6721 ./etext04/8rdsl10.txt
+208781 ./etext04/mlfls10.txt
+13251 ./etext04/7mynr10.txt
+89049 ./etext04/lflcn10.txt
+150449 ./etext04/8tjna10.txt
+49161 ./etext04/emihh10a.txt
+45799 ./etext04/8grtr10.txt
+14440 ./etext04/8phil10.txt
+161059 ./etext04/8lssm10u.txt
+24399 ./etext04/judsm10.txt
+61940 ./etext04/tmrcr10.txt
+191605 ./etext04/iliad10a.txt
+140052 ./etext04/8jrc710.txt
+15558 ./etext04/whwar10.txt
+96455 ./etext04/8wwrt10.txt
+76630 ./etext04/8clel10.txt
+25348 ./etext04/spatr10.txt
+15002 ./etext04/vampy10.txt
+223611 ./etext04/pam1w10.txt
+288746 ./etext04/hmjnc11.txt
+2411 ./etext04/kknta10.txt
+293939 ./etext04/hmjnc10.txt
+67919 ./etext04/chshr10.txt
+93765 ./etext04/marmn10a.txt
+60866 ./etext05/8rheb10.txt
+2384 ./etext05/bib0010h/Readme.txt
+141989 ./etext05/8hist10.txt
+87479 ./etext05/8hfld10.txt
+236760 ./etext05/cfvrw10.txt
+51829 ./etext05/8recn10.txt
+672649 ./etext05/lcjnl10.txt
+16634 ./etext05/8frog10.txt
+63959 ./etext05/8moor10.txt
+78191 ./etext05/lgtrd10.txt
+31598 ./etext05/aaard10.txt
+51183 ./etext05/8aggr10.txt
+65227 ./etext05/8josh10.txt
+52181 ./etext05/8dubc10.txt
+43166 ./etext05/tagod10.txt
+39002 ./etext05/8igjp10.txt
+197809 ./etext05/b033w10.txt
+182287 ./etext05/8luth10.txt
+79821 ./etext05/8augr10.txt
+9138 ./etext05/8ldvn10.txt
+107281 ./etext05/8rtib10.txt
+43038 ./etext05/skawe10.txt
+22666 ./etext05/8rinc10.txt
+150656 ./etext05/8purg10.txt
+49149 ./etext05/8cury10.txt
+53184 ./etext05/8jeev10.txt
+73208 ./etext05/8hcal10.txt
+133828 ./etext05/8ntle10.txt
+38863 ./etext05/panic10.txt
+51927 ./etext05/8moon10.txt
+226251 ./etext05/8romn10.txt
+93952 ./etext05/esper10.txt
+56085 ./etext05/8shkm10.txt
+134353 ./etext05/8csus10.txt
+97541 ./etext05/8homr10.txt
+16586 ./etext05/7king10.txt
+26625 ./etext05/8ghst10.txt
+242612 ./etext05/8unlt10.txt
+63330 ./etext05/8eftl10.txt
+182699 ./etext05/8elit10.txt
+68703 ./etext05/ovtop10.txt
+22085 ./etext05/tfgtv10.txt
+229909 ./etext05/8euhs10.txt
+52984 ./etext05/tbyty10.txt
+77106 ./etext05/8celt10.txt
+205635 ./etext05/8trsa10.txt
+44720 ./etext05/8hsrs10.txt
+11466 ./etext05/esycr10.txt
+178494 ./etext05/wlwrk10.txt
+3890 ./etext90/when12.txt
+823156 ./etext90/kjv10.txt
+1790 ./etext90/bill11.txt
+5979 ./etext90/const11.txt
+2550 ./etext90/liber11.txt
+31039 ./etext91/lglass18.txt
+203373 ./etext91/roget15a.txt
+28194 ./etext91/alice30.txt
+42672 ./etext91/aesop11.txt
+196853 ./etext91/feder16.txt
+293159 ./etext91/mormon13.txt
+62469 ./etext92/warw12.txt
+81965 ./etext92/plrabn12.txt
+104099 ./etext92/anne11.txt
+91313 ./etext92/avon10.txt
+85421 ./etext92/scrlt12.txt
+30825 ./etext92/carol13.txt
+14145 ./etext92/sleep11.txt
+43150 ./etext92/duglas11.txt
+34277 ./etext92/timem11.txt
+72454 ./etext93/sawyr11.txt
+86332 ./etext93/scarp10.txt
+17356 ./etext93/rgain10.txt
+112757 ./etext93/hfinn12.txt
+93110 ./etext93/moon10.txt
+13808 ./etext93/manif12.txt
+59432 ./etext93/wmars13.txt
+127240 ./etext93/pimil10.txt
+41188 ./etext93/wizoz10.txt
+24683 ./etext93/dcart10.txt
+11650 ./etext93/civil11.txt
+77118 ./etext93/frank14.txt
+55522 ./etext93/zenda10.txt
+44263 ./etext93/ozland10.txt
+69556 ./etext93/pmars13.txt
+85061 ./etext93/gmars12.txt
+87925 ./etext93/tarzn10.txt
+90766 ./etext93/tarz210.txt
+70381 ./etext94/treas11.txt
+137667 ./etext94/2city12.txt
+68048 ./etext94/bfaut10.txt
+86552 ./etext94/phant12.txt
+113763 ./etext94/rholm10.txt
+120355 ./etext94/sense11.txt
+14405 ./etext94/ee710.txt
+5574 ./etext94/rime10.txt
+23400 ./etext94/comsn10.txt
+126197 ./etext94/repub13.txt
+45353 ./etext94/dmoro11.txt
+226088 ./etext94/wwend10.txt
+64506 ./etext94/80day11.txt
+146025 ./etext94/jude11.txt
+117060 ./etext94/mayrc10.txt
+82429 ./etext94/gardn11.txt
+60486 ./etext94/plgrm11.txt
+567643 ./etext94/lesms10.txt
+150283 ./etext94/tess10.txt
+101840 ./etext94/2000010.txt
+74893 ./etext94/fuman12.txt
+143477 ./etext94/nativ10.txt
+150946 ./etext94/jungl10.txt
+55729 ./etext94/sunzu10.txt
+318631 ./etext94/mdmar10.txt
+46409 ./etext95/sioux10.txt
+83714 ./etext95/myant11.txt
+61801 ./etext95/bbeau10.txt
+1347452 ./etext95/pge0112.txt
+69108 ./etext95/troic10.txt
+60212 ./etext95/wwill10.txt
+5531 ./etext95/owlcr10.txt
+52526 ./etext95/jnglb10.txt
+24514 ./etext95/sstcq10.txt
+108112 ./etext95/anide10.txt
+45704 ./etext95/study10.txt
+44098 ./etext95/tturn10.txt
+155317 ./etext95/pprty10.txt
+92857 ./etext95/homer10.txt
+139951 ./etext95/mollf10.txt
+8684 ./etext95/kswom10.txt
+182978 ./etext95/utomc11.txt
+261132 ./etext95/humbn10.txt
+157767 ./etext95/scarr10.txt
+65427 ./etext95/anidl10.txt
+40888 ./etext95/litbl10.txt
+162362 ./etext95/dracu12.txt
+22226 ./etext95/galli10.txt
+33535 ./etext95/callw10.txt
+48620 ./etext96/badge10a.txt
+53231 ./etext96/prgob10.txt
+188485 ./etext96/lwmen12.txt
+144029 ./etext96/pmisr10.txt
+253479 ./etext96/3dfre10.txt
+742247 ./etext96/plivs10.txt
+41070 ./etext96/magoz10.txt
+19751 ./etext96/areop10.txt
+91820 ./etext96/sjv0410.txt
+69806 ./etext96/oleng10.txt
+223266 ./etext96/tbisp10.txt
+217905 ./etext96/curio10.txt
+85051 ./etext96/pcwar10.txt
+240061 ./etext96/6dfre10.txt
+45887 ./etext96/notun11.txt
+141089 ./etext96/1jcfs10.txt
+304971 ./etext96/vfair12.txt
+85877 ./etext96/idyll10a.txt
+71023 ./etext96/soulb10.txt
+296008 ./etext96/2dfre11.txt
+130730 ./etext96/njals10.txt
+39955 ./etext96/hdark12a.txt
+103588 ./etext96/tshak10.txt
+55639 ./etext96/ebacn10.txt
+264295 ./etext96/5dfre11.txt
+268791 ./etext96/1dfre10.txt
+11737 ./etext96/onepi10.txt
+34148 ./etext96/sorol10.txt
+12586 ./etext96/prjtr10.txt
+361106 ./etext96/cprfd10.txt
+307268 ./etext96/orfur10.txt
+43727 ./etext96/doroz10.txt
+73588 ./etext96/twrdn10.txt
+103520 ./etext96/agino10.txt
+76657 ./etext96/wnbrg11.txt
+80769 ./etext96/ftroy10.txt
+41047 ./etext96/rd2oz10.txt
+119022 ./etext96/wuthr10.txt
+70095 ./etext96/agnsg10.txt
+277920 ./etext96/4dfre10.txt
+158823 ./etext96/olivr10.txt
+24307 ./etext97/3spne10.txt
+106638 ./etext97/gltrv10.txt
+355276 ./etext97/blkhs10.txt
+153595 ./etext97/0ddcc10.txt
+16147 ./etext97/slman10.txt
+19785 ./etext97/2spne10.txt
+5168 ./etext97/mdprp10.txt
+99085 ./etext97/0ddc809a.txt
+21355 ./etext97/drfst10.txt
+425466 ./etext97/1donq10.txt
+28437 ./etext97/bwulf11.txt
+23417 ./etext97/wwasw10.txt
+324316 ./etext97/ncklb10.txt
+107819 ./etext97/totlc10.txt
+12159 ./etext97/5spne10.txt
+165034 ./etext97/dnhst10.txt
+74105 ./etext97/wtfng10.txt
+105939 ./etext97/hardt10.txt
+181446 ./etext97/shndy10.txt
+57821 ./etext97/bnrwy10.txt
+22498 ./etext97/tiobe10.txt
+11908 ./etext97/wsvns10.txt
+37046 ./etext97/lndle10.txt
+104793 ./etext97/nblng10.txt
+19586 ./etext97/wssnt10.txt
+192730 ./etext97/dtroy10.txt
+26018 ./etext97/tmbn110.txt
+73621 ./etext97/ttnic10.txt
+63900 ./etext97/1rbnh10.txt
+27243 ./etext97/jmlta10.txt
+63936 ./etext97/1argn10.txt
+116778 ./etext97/0ddcl10.txt
+89343 ./etext97/memho11.txt
+23836 ./etext97/4spne10.txt
+5317 ./etext97/nnsns10.txt
+150870 ./etext97/mohic10.txt
+15592 ./etext97/1spne10.txt
+112898 ./etext97/2rbnh10.txt
+17951 ./etext97/hpaot10.txt
+59267 ./etext97/vlsng10.txt
+163511 ./etext97/cpogs10.txt
+195799 ./etext98/milnd11.txt
+23430 ./etext98/2ws0910.txt
+157832 ./etext98/otoos11.txt
+29496 ./etext98/2ws2910.txt
+22992 ./etext98/potww10.txt
+191357 ./etext98/janey11.txt
+17648 ./etext98/ppikg10.txt
+24786 ./etext98/2ws2510.txt
+24123 ./etext98/2ws1010.txt
+51385 ./etext98/tprnc10.txt
+4524 ./etext98/2ws4410.txt
+77103 ./etext98/secad10.txt
+24608 ./etext98/2ws1210.txt
+22756 ./etext98/2ws2410.txt
+26289 ./etext98/2ws3010.txt
+79165 ./etext98/mhyde10.txt
+20282 ./etext98/2ws1110.txt
+21611 ./etext98/2ws3710.txt
+231576 ./etext98/1musk12.txt
+28580 ./etext98/2ws0210.txt
+56019 ./etext98/vccty10.txt
+27642 ./etext98/2ws4010.txt
+351603 ./etext98/nkrnn11.txt
+200103 ./etext98/pgbev10.txt
+30885 ./etext98/2ws3610.txt
+245207 ./etext98/3musk11.txt
+24718 ./etext98/2ws3110.txt
+27463 ./etext98/2ws1610.txt
+33590 ./etext98/2ws2610.txt
+29151 ./etext98/2ws3310.txt
+24475 ./etext98/2ws2210.txt
+466288 ./etext98/crsto12.txt
+21545 ./etext98/2ws3810.txt
+123827 ./etext98/pandp12.txt
+25373 ./etext98/2ws2010.txt
+36896 ./etext98/cdbfr10.txt
+321519 ./etext98/ggpnt10.txt
+28213 ./etext98/2ws3510.txt
+186461 ./etext98/grexp10a.txt
+269258 ./etext98/2musk10.txt
+19105 ./etext98/2ws1710.txt
+27276 ./etext98/2ws1910.txt
+222423 ./etext98/3drvb10.txt
+23383 ./etext98/anthm10z.txt
+25344 ./etext98/2ws1510.txt
+23111 ./etext98/2ws2810.txt
+27481 ./etext98/2ws4310.txt
+19532 ./etext98/2ws3910.txt
+23685 ./etext98/2ws1410.txt
+19333 ./etext98/2ws4110.txt
+30323 ./etext98/wwrld10.txt
+32898 ./etext98/sprvr11.txt
+16987 ./etext98/2ws0810.txt
+24698 ./etext98/2ws0110.txt
+102928 ./etext98/comet10.txt
+32974 ./etext98/2ws0410.txt
+20055 ./etext98/2ws3410.txt
+173238 ./etext98/1mart10.txt
+18041 ./etext98/2ws0610.txt
+2326 ./etext98/2ws2710.txt
+24171 ./etext98/2ws1810.txt
+197375 ./etext98/2mart10.txt
+29320 ./etext98/2ws2310.txt
+43596 ./etext98/19rus10.txt
+23320 ./etext98/1ws4710.txt
+113086 ./etext98/2lotj10.txt
+3529 ./etext98/2ws4510.txt
+27754 ./etext98/2ws0310.txt
+13140 ./etext98/msprs10.txt
+129247 ./etext98/1lotj10.txt
+29555 ./etext98/2ws2110.txt
+27769 ./etext98/2ws4210.txt
+37709 ./etext98/cdben10.txt
+29520 ./etext98/2ws3210.txt
+17217 ./etext99/1ws4910.txt
+106840 ./etext99/advsh12.txt
+13061 ./etext99/fldct10.txt
+71939 ./etext99/prppr11.txt
+20829 ./etext99/cndrl10.txt
+25217 ./etext99/1ws5110.txt
+109372 ./etext99/1onwr10.txt
+61709 ./etext99/mwktm10a.txt
+63748 ./etext99/mcrst11.txt
+26779 ./etext99/tmbn210.txt
+15112 ./etext99/brtns10.txt
+18403 ./etext99/vanya10.txt
+131754 ./etext99/dyssy10.txt
+44685 ./etext99/phado10.txt
+112946 ./etext99/spzar10.txt
+24532 ./etext99/adrwn10.txt
+8470 ./etext99/crito10.txt
+418232 ./etext99/2drvb10.txt
+18004 ./etext99/pplgy10.txt
+88708 ./etext99/vstil10.txt
+383184 ./etext99/2donq10.txt
+7477 ./etext99/sinex10.txt
+174955 ./etext99/resur10.txt
+7983 ./etext99/ylwlp10.txt
+437227 ./etext99/1drvb10.txt
+133230 ./etext99/uspis10.txt
